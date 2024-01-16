@@ -1,3 +1,3 @@
-## Hello, world!
+## Hello, Trojans!
 
 This is a README file.
